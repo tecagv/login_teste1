@@ -2,7 +2,8 @@
 
 Projeto didático criado para ensinar login, autenticação simulada, validação de formulário e controle de sessão em Flutter.
 
-## O que o projeto faz
+## O que o projeto faz?
+## Leia este arquivo com atenção.
 
 - Exibe uma tela de login com validação
 - Simula autenticação com usuários de teste
